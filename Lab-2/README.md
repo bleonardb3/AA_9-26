@@ -1,4 +1,4 @@
-## lab-2 Watson Studio SPSS Modeler Lab
+## Lab-2 Watson Studio SPSS Modeler Lab
 
 ## Introduction: 
 
