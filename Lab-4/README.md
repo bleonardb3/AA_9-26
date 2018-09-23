@@ -1,4 +1,4 @@
-## Lab-4  Spark Machine Learning with Jupyter Notebook 
+## Lab-4: Spark Machine Learning with Jupyter Notebook 
 
 ## Introduction:
 
