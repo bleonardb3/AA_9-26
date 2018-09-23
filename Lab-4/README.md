@@ -26,11 +26,11 @@ Upon completing the lab, you will know how to:
 
 ### Step 2.  Click the `Add to project` link and then click the `Notebook` link in the top right of your project pane.
 
-> <img src="https://github.com/bleonardb3/AA_9-26/blob/master/Lab-4/images/CreateNotebook.png"/>
+> <img src="https://github.com/bleonardb3/WM/blob/master/Lab-3/Images/Add%20Notebook%20to%20Project.png"/>
 
 ### Step 3.  Create the notebook.
 
-> <img src="https://github.com/bleonardb3/AA/blob/master/Lab-4/Images/New%20Notebook.png"/>
+> <img src="https://github.com/bleonardb3/AA_9-26/blob/master/Lab-4/images/CreateNotebook.png"/>
 
 1. Click the `From URL` tab under `New Notebook`.
 1. Give the notebook a name in the `Name` field, for example `Machine Learning with SparkML` and optionally you can give it a description.
