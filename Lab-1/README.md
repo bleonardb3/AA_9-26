@@ -16,8 +16,8 @@ Upon completing the lab, you will:
 
 ## Instructions:
 
-### Step 1.  Please click on the link below and then press the `Download` button to download the instructions to your machine.
+### Step 1.  Please click on the link below to download the instructions to your machine.
 
-[Instructions](https://github.com/bleonardb3/AA_9-26/blob/master/Lab-1/WatsonMachineLearningv6.pdf).
+[Instructions](https://github.com/bleonardb3/AA_9-26/raw/master/Lab-1/WatsonMachineLearningv6.pdf).
 
 
