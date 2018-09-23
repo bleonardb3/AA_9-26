@@ -10,5 +10,5 @@ Upon completing the lab, you will know how to:
 
 ### Step 1. Please click on the link to download the instructions to your machine
 
-[Instructions](https://github.com/bleonardb3/AA_9-26/raw/master/Lab-3/Data%20Refinery%20Lab_v4.pdf).
+[Instructions](https://github.com/bleonardb3/AA_9-26/raw/master/Lab-5/dashboard_v1.pdf).
 
