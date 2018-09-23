@@ -30,12 +30,13 @@ Upon completing the lab, you will know how to:
 
 ### Step 3.  Create the notebook.
 
-> <img src="https://github.com/bleonardb3/AA_9-26/blob/master/Lab-4/images/CreateNotebook.png"/>
-
 1. Click the `From URL` tab under `New Notebook`.
 1. Give the notebook a name in the `Name` field, for example `Machine Learning with SparkML` and optionally you can give it a description.
 1. In the Notebook URL field, use `https://github.com/bleonardb3/AA_9-26/blob/master/Lab-4/Machine%20Learning%20with%20SparkML.ipynb`.
 1. Ensure that there is a `Spark Service` selected, then click the `Create Notebook` button on the bottom right of the screen.
+
+> <img src="https://github.com/bleonardb3/AA_9-26/blob/master/Lab-4/images/CreateNotebook.png"/>
+
 
 ### Step 4.  Follow the instructions in the notebook.
 
