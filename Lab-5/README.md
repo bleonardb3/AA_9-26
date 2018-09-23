@@ -1,4 +1,4 @@
-## Lab-5 Watson Studio Dashboard Lab
+## Lab-5: Watson Studio Dashboard Lab
 
 ## Introduction
 In this lab, you will use the Watson Studio Cognos Dashboard Embedded service to create a dashboard using the Titanic data set.  
