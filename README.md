@@ -1,4 +1,4 @@
-Use IBM’s Watson Studio to create machine learning models and applications. Participants will be led through 4 labs (time permitting). All use the Titanic data set, a common one used in Kaggle competitions.  
+Use IBM’s Watson Studio to create machine learning models and applications. Participants will be led through 5 labs (time permitting). All use the Titanic data set, a common one used in Kaggle competitions.  
 
 1. [Lab-1](https://github.com/bleonardb3/AA_9-26/tree/master/Lab-1) - The first lab will use the Watson Machine Learning capability to create a machine learning model based on the Titanic data set. The model will be deployed in the IBM Cloud, and an application will be built that uses the deployed machine learning model to predict survivability given passenger characteristics.
 
