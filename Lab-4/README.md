@@ -40,5 +40,5 @@ Upon completing the lab, you will know how to:
 
 ### Step 4.  Follow the instructions in the notebook.
 
-> <img src="https://github.com/bleonardb3/AA/blob/master/Lab-4/Images/Notebook%20Introduction.png"/>
+> <img src="https://github.com/bleonardb3/AA_9-26/blob/master/Lab-4/images/NotebookImage.png"/>
 
